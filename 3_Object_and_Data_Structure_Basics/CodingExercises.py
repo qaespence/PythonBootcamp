@@ -35,3 +35,8 @@ print("Hello World")
 set('Mississippi')
 
 # Coding Exercise 9: File I/O
+# Write a script that opens a file named 'test.txt', writes 'Hello World' to Arithmetic
+# file, and the closes it
+x = open('test.txt', mode='w')
+x.write('Hello World')
+x.close()
