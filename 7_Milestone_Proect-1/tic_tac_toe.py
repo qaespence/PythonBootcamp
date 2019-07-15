@@ -1,8 +1,8 @@
-# <summary>
+
 # Udemy course - Complete Python Bootcamp
 # Section 7: Milestone Project - 1
 # TicTacToe game
-# </summary>
+
 
 PLAYERPIECES = []
 

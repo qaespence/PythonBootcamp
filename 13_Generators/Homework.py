@@ -1,7 +1,7 @@
-# <summary>
+
 # Udemy course - Complete Python Bootcamp
 # Section 13 Homework Assignment
-# </summary>
+
 
 # Problem 1
 # Create a generator that generates the squares of numbers up to some number N

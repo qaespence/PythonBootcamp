@@ -1,7 +1,7 @@
-# <summary>
+
 # Udemy course - Complete Python Bootcamp
 # Section 8 Homework Assignment
-# </summary>
+
 
 # Problem 1
 # Create the Line class methods to accept corrdinates as a pair of tuples and

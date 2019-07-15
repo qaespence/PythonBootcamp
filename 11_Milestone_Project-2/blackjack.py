@@ -1,8 +1,8 @@
-# <summary>
+
 # Udemy course - Complete Python Bootcamp
 # Section 11: Milestone Project - 2
 # Blackjack game
-# </summary>
+
 
 import random
 

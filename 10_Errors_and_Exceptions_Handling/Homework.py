@@ -1,7 +1,7 @@
-# <summary>
+
 # Udemy course - Complete Python Bootcamp
 # Section 10 Homework Assignment
-# </summary>
+
 
 # Problem 1
 # Handle the exception thrown by the given code

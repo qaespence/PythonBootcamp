@@ -1,7 +1,7 @@
-# <summary>
+
 # Udemy course - Complete Python Bootcamp
 # Section 8 Challenge Assignment
-# </summary>
+
 
 # Create a bank account class that has two attributes: owner and balance
 # and two methods: deposit and withdraw

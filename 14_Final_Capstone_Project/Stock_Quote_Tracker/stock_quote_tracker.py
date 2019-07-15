@@ -1,8 +1,8 @@
-# <summary>
+
 # Udemy course - Complete Python Bootcamp
 # Section 14: Final Capstone Python Project
 # Stock Ticker Tracker
-# </summary>
+
 
 from yahoo_fin.stock_info import *
 
